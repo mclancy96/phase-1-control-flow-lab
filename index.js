@@ -10,8 +10,8 @@ function scuberGreetingForFeet(rideLength) {
   }
 }
 
-function ternaryCheckCity() {
-  // Write your code here!
+function ternaryCheckCity(city) {
+  return city === 'NYC' ? "Ok, sounds good." : "No go.";
 }
 
 function switchOnCharmFromTip() {
