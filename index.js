@@ -1,4 +1,4 @@
-function scuberGreetingForFeet() {
+function scuberGreetingForFeet(rideLength) {
   if (rideLength > 2500) {
     return 'No can do.';
   } else if (rideLength > 2000) {
